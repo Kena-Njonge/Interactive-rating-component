@@ -78,14 +78,13 @@ P{
     height: 40px;
     background-color: var(--Mgrey);
     border-width: 0px;
-    border-color: none;
     border-radius: 50%;
     color: var(--Lgrey);
     text-align: center;
 
 }
 .rating:hover{
-    opacity: 0.5;
+    opacity: 0.7;
     cursor: pointer;
 }
 .submitcontainer{
